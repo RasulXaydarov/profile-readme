@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Vue**
 
-- 📫 How to reach me **rasul.khaydarov@gmail.com**
+- 📫 How to reach me **Rasul_457@proton.me.com**
 
 
 
