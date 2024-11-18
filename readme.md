@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rasul
-### A passionate frontend developer from Uzbekistan</h3>
+### A passionate frontend developer from Uzbekistan
 
 <img src="https://komarev.com/ghpvc/?username=rasulxaydarov&label=Profile%20views&color=0e75b6&style=flat" alt="rasulxaydarov" />
 
