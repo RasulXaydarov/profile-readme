@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulxaydarov&label=Profile%20views&color=0e75b6&style=flat" alt="rasulxaydarov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasulxaydarov" alt="rasulxaydarov" /></a> </p>
-
+-🔭  I’m currently working on social network 
 - 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RasulXaydarov?tab=repositories](https://github.com/RasulXaydarov?tab=repositories)
